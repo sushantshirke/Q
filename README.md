@@ -5,4 +5,5 @@
 3. CLS CTS .net framework
 4 multihreaded application
 5. abstract factory pattern
+6. what happnend in lock is lock object static required
 
