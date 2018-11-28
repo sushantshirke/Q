@@ -25,4 +25,11 @@ WPF provides a richer property system, derived from the DependencyObject type. T
 
 
 
+Factory Method
+1- Create instance of several classes 
+2. Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer      instantiation to subclasses.
+
+
+Abstract Factory
+Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 
